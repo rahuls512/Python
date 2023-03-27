@@ -1,4 +1,4 @@
-#Project Treasure Islnad : using the if else elif 
+#Project Treasure Islnad : using the if else elif ,lower().
 
 print('''
 *******************************************************************************

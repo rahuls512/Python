@@ -1,5 +1,5 @@
 #BMI(Body mass index) calculation:Using if_else and elif statement
-
+#BMI
 #formula bmi=weight/(height/100)**2
 
 print("Check Your Body mass index!")
